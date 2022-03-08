@@ -6,11 +6,15 @@ import { AppComponent } from './app.component';
 import { FetchApiComponent } from './fetch-api/fetch-api.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ApiService } from './api.service';
+import { routingComponents } from './app-routing.module';
+import { EmployeeDetailsComponent } from './employee-details/employee-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FetchApiComponent
+    FetchApiComponent,
+    routingComponents,
+    EmployeeDetailsComponent
   ],
   imports: [
     BrowserModule,
