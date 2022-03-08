@@ -1,0 +1,26 @@
+h2 {
+    text-align: center;
+}
+
+#myData {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+#myData td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+#myData tr:nth-child(even){background-color: #f2f2f2;}
+
+#myData tr:hover {background-color: #ddd;}
+
+#myData th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: black;
+    color: white;
+  }
