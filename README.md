@@ -71,4 +71,4 @@
  
 * Output 
  
- ![Screenshot](assignment/screenshots/Output.jpg)
+ ![Screenshot](assignment/screenshots/output.jpg)
