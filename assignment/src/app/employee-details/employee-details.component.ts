@@ -9,7 +9,7 @@ import { Employee } from '../employee';
 })
 export class EmployeeDetailsComponent implements OnInit {
  
-  employeeModel=new Employee('Harry Potter','Hogwarts', 9876543210, new Date('09/12/2000'), 'ayush@gmail.com');
+  employeeModel=new Employee('Harry Potter','Hogwarts', 9876543210, new Date('09/12/2000'), 'harry@gmail.com');
   constructor() { }
 
   ngOnInit(): void {
