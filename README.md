@@ -27,48 +27,48 @@
 
 * Home 
 
- ![Screenshot](Screenshots/Home.jpg)
+ ![Screenshot](assignment/Screenshots/Home.jpg)
  
 * Fetch API
 
- ![Screenshot](Screenshots/Fetch-API.jpg)
+ ![Screenshot](assignment/Screenshots/Fetch-API.jpg)
  
 * Pagination  
  
- ![Screenshot](Screenshots/Pagination.jpg)
+ ![Screenshot](assignment/Screenshots/Pagination.jpg)
  
 * Employee Details 
  
- ![Screenshot](Screenshots/Employee-details.jpg)
+ ![Screenshot](assignment/Screenshots/Employee-details.jpg)
  
 * Name Validation
  
- ![Screenshot](Screenshots/Name-validation.jpg)
+ ![Screenshot](assignment/Screenshots/Name-validation.jpg)
  
 * Address Validation 
  
- ![Screenshot](Screenshots/Address-validation.jpg)
+ ![Screenshot](assignment/Screenshots/Address-validation.jpg)
  
 * Phone Validation 
  
- ![Screenshot](Screenshots/Phone-validation.jpg)
+ ![Screenshot](assignment/Screenshots/Phone-validation.jpg)
  
 * Phone Validation 
  
- ![Screenshot](Screenshots/Phone-validation2.jpg)
+ ![Screenshot](assignment/Screenshots/Phone-validation2.jpg)
  
 * DOB Validation
  
- ![Screenshot](Screenshots/dob-validation.jpg)
+ ![Screenshot](assignment/Screenshots/dob-validation.jpg)
  
 * Email Validation 
  
- ![Screenshot](Screenshots/Email-validation.jpg)
+ ![Screenshot](assignment/Screenshots/Email-validation.jpg)
  
 * Email Validation 
  
- ![Screenshot](Screenshots/Email-validation2.jpg)
+ ![Screenshot](assignment/Screenshots/Email-validation2.jpg)
  
 * Output 
  
- ![Screenshot](Screenshots/Output.jpg)
+ ![Screenshot](assignment/Screenshots/Output.jpg)
