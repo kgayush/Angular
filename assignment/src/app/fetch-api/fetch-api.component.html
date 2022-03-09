@@ -6,11 +6,12 @@
         <th>Id</th>
         <th>Title</th>
         <th>Body</th>
-        <tr *ngFor="let data of datas">
+        <tr *ngFor="let data of datas | paginate: { itemsPerPage: 10, currentPage: p }">
             <td>{{data.userId}}</td>
             <td>{{data.id}}</td>
             <td>{{data.title}}</td>
             <td>{{data.body}}</td>
         </tr>
     </table>
+    <pagination-controls (pageChange)="p = $event" class="float-right"></pagination-controls>
 </div>

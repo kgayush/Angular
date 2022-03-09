@@ -9,7 +9,7 @@ import { ApiService } from '../api.service';
 export class FetchApiComponent implements OnInit {
 
   public datas = [] as any;
-
+  p:any;
 
   constructor(private _apiService: ApiService) { }
 
