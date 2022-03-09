@@ -59,7 +59,7 @@
  
 * DOB Validation
  
- ![Screenshot](assignment/screenshots/dob-validation.jpg)
+ ![Screenshot](assignment/screenshots/DOB-validation.jpg)
  
 * Email Validation 
  
